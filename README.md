@@ -8,11 +8,13 @@ I created a Virtual Enviroment using : Via the command Line
 
 
 pip install virtualenv
+
 pip install virtualenvwrapper
 
-Then i navigated to my Desktop Directory using the windows command prompt in which i created my Helloworld folder Using :
+Then i navigated to my Desktop Directory using the windows command prompt in which i created my Helloworld folder Using:
 
 mkdir Hello World
+
 cd Hello World
 
 
@@ -35,8 +37,11 @@ Then i wrote my Hello World App using a text editor in hello_world.py file :
 Then i went back to my commandline interface to run the app using:
 
 set FLASK_APP=hello_world.py
+
 flask run
 
 Thanks 
+
 EjiroEdwin@gmail.com
+
 +2348094110895
